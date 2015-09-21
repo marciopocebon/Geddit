@@ -1,4 +1,4 @@
-# NanoGeddit
+# Geddit
 
 Download imgur images/galleries from a sub-reddit
 
